@@ -168,7 +168,7 @@
 
 @media(max-width: 1424px) {
 
-    #name-card , #portfolio-card{
+    #name-card , #portfolio-card {
         width: 1081px;
     }
 
@@ -177,7 +177,33 @@
         width: 60%;
     }
 
+}
 
+@media(min-width: 1600px) {
+    #name-card {
+        height: 40%;
+        width: 66.6%;
+    }
+
+    h1 {
+        font-size: 300%;
+    } 
+
+    h2 {
+        font-size: 200%
+    }
+
+    h3 {
+        font-size: 130%;
+    }
+
+    img{
+        margin-top: 120px;
+    }
+
+    #column2 {
+        background-size: 130%;
+    }
 
 }
 
