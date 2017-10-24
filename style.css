@@ -107,11 +107,11 @@
     }   
 
     #education-card{
-        background-color: #F4E79F;
+        background-color: #DBC964;
     }
 
     #blog-card{
-        background-color: #F2DC5D;
+        background-color: #A38B03;
     }
 
     #social-menu-card{
@@ -184,7 +184,7 @@
         height: 40%;
         width: 66.6%;
     }
-
+    
     h1 {
         font-size: 300%;
     } 
